@@ -39,7 +39,7 @@ It's been super helpful for my own research workflow, and I thought others might
 2. Open Chrome and go to `chrome://extensions/`
 3. Turn on "Developer mode" (top right)
 4. Click "Load unpacked" and select the `extension-folder`
-5. That's it! Start using it on any webpage 🎉
+5. That's it! Start using it on any webpage 
 
 **⏳ First-time note:** The backend is on Render's free plan, so it sleeps after 15 minutes of inactivity. The first request might take 30-60 seconds to wake up, just be patient! After that, it's fast. ☕
 
